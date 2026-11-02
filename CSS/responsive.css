@@ -1,0 +1,197 @@
+@media (max-width: 1399.98px) {
+  .fs-60 {
+    font-size: 54px;
+  }
+  .line {
+    line-height: 66px;
+  }
+  .team-name {
+    font-size: 1.4rem;
+  }
+}
+@media (max-width: 1199.98px) {
+  .fs-60 {
+    font-size: 46px;
+  }
+  .line {
+    line-height: 58px;
+  }
+  .fs-48 {
+    font-size: 40px;
+  }
+  .team-name {
+    font-size: 1.25rem;
+  }
+  .team-role {
+    font-size: 0.9rem;
+  }
+  .glow {
+    width: 1000px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    padding-top: 12px;
+  }
+  #hero {
+    min-height: auto;
+    background-attachment: scroll;
+  }
+  .pt-7 {
+    padding-top: 6.5rem;
+  }
+  .hero {
+    height: auto;
+  }
+  
+  .py-lg-96 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .mb-lg-64 {
+    margin-bottom: 40px;
+  }
+  .fs-48 {
+    font-size: 36px;
+  }
+  .py-80 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .team-card {
+    aspect-ratio: 1 / 1;
+  }
+  .team-name {
+    font-size: 1.4rem;
+  }
+
+  .fade-left,
+  .fade-right {
+    width: 4rem;
+  }
+  .glow {
+    width: 700px;
+    height: 350px;
+  }
+}
+@media (max-width: 767.98px) {
+  .fs-60 {
+    font-size: 32px;
+  }
+  #hero h1 .green {
+    display: block;
+  }
+  .fs-48 {
+    font-size: 32px;
+  }
+ 
+  .hero-text {
+    font-size: 15px;
+  }
+  .absolute {
+    padding: 14px;
+    left: 0;
+    bottom: 0;
+  }
+  .letter {
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+  .section-label::before,
+  .section-label::after {
+    width: 32px;
+  }
+  .section-label::before {
+    left: -42px;
+  }
+  .section-label::after {
+    right: -42px;
+  }
+  .slider-btn {
+    width: 48px;
+    height: 48px;
+  }
+  .btn-outline-green {
+    --bs-btn-padding-x: 20px;
+    --bs-btn-padding-y: 12px;
+    font-size: 14px;
+  }
+  #what-we-do img.rounded-4 {
+    height: 100%;
+    object-fit: cover;
+  }
+  .team-card {
+    aspect-ratio: 4 / 5;
+  }
+  .team-name {
+    font-size: 1.3rem;
+  }
+  .p-32 {
+    padding: 24px;
+  }
+  .mb-32 {
+    margin-bottom: 20px;
+  }
+  .circle {
+    width: 52px;
+    height: 52px;
+  }
+  .circle i {
+    font-size: 1.2rem !important;
+  }
+
+  footer .border-top.d-flex {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+  }
+}
+@media (max-width: 575.98px) {
+  .px-24 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .fs-60 {
+    font-size: 30px;
+  }
+  .line {
+    line-height: 40px;
+  }
+  .fs-48 {
+    font-size: 26px;
+  }
+  #hero .d-flex.justify-content-center {
+    flex-direction: column;
+  }
+  #hero .btn {
+    width: 100%;
+    padding: 14px 20px;
+  }
+
+ 
+  #carouselSm .d-flex.justify-content-center {
+    flex-wrap: wrap;
+  }
+  .team-card {
+    aspect-ratio: 1 / 1;
+  }
+  .logo-card {
+    width: 4.5rem;
+    height: 4.5rem;
+  }
+  .form-input,
+  .form-select {
+    padding: 10px 14px;
+  }
+  #contact-us .row > .col {
+    flex: 0 0 100%;
+    margin-bottom: 12px;
+  }
+
+  .fs-5 {
+    font-size: 1rem !important;
+  }
+}
